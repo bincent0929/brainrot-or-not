@@ -7,6 +7,7 @@
 
 - [A model that's already trained to determine educational content](https://huggingface.co/HuggingFaceFW/fineweb-edu-classifier)
 	- I tested this model and the output was kind of weird. The score was only 1.8 for a behavioral science video
+	- [My test repo for the pre-trained educationllm](https://github.com/bincent0929/pre-trained-test-youtube-educational)
 
 [Video on training an LLM](https://www.youtube.com/watch?v=9Ge0sMm65jo)
 

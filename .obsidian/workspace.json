@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-02-01 14.44.23.excalidraw.md"
+                "file": "Excalidraw/First Brainstorm.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-01 14.44.23.excalidraw"
+              "title": "First Brainstorm.excalidraw"
             }
           },
           {
@@ -61,8 +61,7 @@
               "title": "How To Make The Extension"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,12 +223,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "afb6f3823926fe8d",
+  "active": "4c46bd7238c3250c",
   "lastOpenFiles": [
-    "Excalidraw/User Flow For Brainrot Or Not.md",
     "Excalidraw/How To Train The LLM.md",
+    "Excalidraw/User Flow For Brainrot Or Not.md",
+    "Excalidraw/First Brainstorm.excalidraw.md",
     "Excalidraw/How To Make The Extension.md",
-    "Excalidraw/Drawing 2026-02-01 14.44.23.excalidraw.md",
     "README.md",
     "Excalidraw",
     "LICENSE",
